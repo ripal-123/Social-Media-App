@@ -1,0 +1,7 @@
+label {
+  cursor: pointer;
+}
+
+input:hover {
+  border-color: darkblue;
+}

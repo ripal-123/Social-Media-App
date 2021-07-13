@@ -1,0 +1,22 @@
+.userImg {
+  width: 50px;
+  border-radius: 50%;
+}
+
+.scream {
+  background-color: antiquewhite;
+  height: 100px;
+  width: 300px;
+  padding: 4px;
+}
+
+.profile,
+img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.nav,
+a {
+  cursor: pointer;
+}
